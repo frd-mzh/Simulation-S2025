@@ -67,7 +67,9 @@ This repository contains Python implementations for two simulation problems from
 | Failure Events        | 67            | 20                 |
 | Downtime Minutes      | 1,290         | 1,260              |
 
-![Cost Comparison Visualization](https://via.placeholder.com/600x400?text=Cost+Distribution+Plots)
+![image](https://github.com/user-attachments/assets/634cf8f5-3758-4d0e-97e7-c468c54f20e5)
+![image](https://github.com/user-attachments/assets/cabbbd7c-1717-4b3c-883b-16748e473d36)
+
 
 ## Contributors
 - Hessam Ebrahimi
