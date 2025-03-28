@@ -22,7 +22,7 @@ This repository contains Python implementations for two simulation problems from
 - `CourseWork1_Q1.ipynb`: Service station simulation (single-server queue)
 - `CourseWork1_Q2.ipynb`: Bearing maintenance simulation with comparative analysis
 - `Assignment1.pdf`: Original problem statements (in Persian)
-- `Reort.pdf`: Detailed report (in Persian)
+- `Report.pdf`: Detailed report (in Persian)
 
 ## Key Features
 
