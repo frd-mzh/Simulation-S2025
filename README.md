@@ -1,4 +1,4 @@
-# README for Simulation Coursework
+# Simulation Analysis: Queue Performance & Cost-Efficient Maintenance Strategies
 
 ## Overview
 This repository contains Python implementations for two simulation problems from the "Principles of Simulation" course at Amirkabir University of Technology. The solutions demonstrate discrete-event simulation techniques for analyzing system performance and cost optimization.
