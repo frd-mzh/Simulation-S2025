@@ -1,6 +1,5 @@
 # Factory Tool Lending System Simulation
 
-![Simulation Visualization](queue_visualization.png)
 ![image](https://github.com/user-attachments/assets/5d2086b0-3c9b-435c-97aa-240e08eeb10a)
 
 ## Project Overview
